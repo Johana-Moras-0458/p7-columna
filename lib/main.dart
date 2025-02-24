@@ -14,14 +14,14 @@ class MiColumna extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Mi columna'),
+          title: const Text('Mi columna Johana'), //-----mi columna--//
           backgroundColor: const Color.fromARGB(221, 214, 190, 190),
           centerTitle: true,
           ),
           drawer: Drawer(),
           body: Column(
             children: <Widget>[
-    Text('Johana Moras',
+    Text('Johana Moras', //----nombre---//
     style: TextStyle(
               fontSize: 24.0, // Tamaño de la fuente
               fontWeight: FontWeight.bold, // Grosor de la fuente
@@ -29,7 +29,7 @@ class MiColumna extends StatelessWidget {
               color: const Color.fromARGB(162, 87, 79, 79), // Color del texto
               fontFamily: 'Roboto', // Tipo de letra (fuente)
             ),),
-    Text('Mat: 22308051280458',),
+    Text('Mat: 22308051280458',), //--matricula--//
     Expanded(
       child: FittedBox(
         child: FlutterLogo(),
