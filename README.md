@@ -9,7 +9,8 @@ Proyecto columna
 
 ## salida
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/24124887-6bc5-4956-b9b8-ef61c3e39e55)
+
 
 ## Getting Started
 
